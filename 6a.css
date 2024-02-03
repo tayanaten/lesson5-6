@@ -1,0 +1,18 @@
+
+.container {
+    display: flex;
+    width: 200px;
+    height: 200px;
+    border: none;
+    background-color: aqua;
+    position: relative;
+}
+
+.box {
+    border: 1px solid aqua;
+    font-size: 20px;
+    font-weight: bold;
+    position: absolute;
+    bottom: 4px;
+    right: 4px;
+}

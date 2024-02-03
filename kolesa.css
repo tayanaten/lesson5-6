@@ -1,0 +1,173 @@
+
+.container {
+    display: flex;
+}
+
+.block1 {
+    width: 300px;
+    height: 375px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+
+.block2 {
+    width: 300px;
+    height: 375px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+
+.block3 {
+    width: 300px;
+    height: 375px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.image1 {
+    width: 300px;
+    height: 170px;
+    cursor: pointer;
+    position: relative;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+}
+
+.box1 {
+    display: flex;
+    align-items: center;
+    border: none;
+    width: 300px;
+    height: 50px;
+}
+
+.price {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.credit {
+    font-size: 17px;
+    font-weight: bold;
+    background-color: orange;
+    margin-left: 10px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    width: 103px;
+    height: 25px;
+    padding: 3px;
+    justify-content: center;
+}
+
+.box2 {
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    position: absolute;
+    top: 340px;
+}
+
+.box3 {
+    display: flex;
+    margin-left: 10px;
+    position: absolute;
+    top: 290px;
+}
+
+.box4 {
+    width: 300px;
+    height: 50px;
+    border: none;
+    display: flex;
+    align-items: center;
+}
+
+.title {
+    font-size: 22px;
+    color: blue;
+    cursor: pointer;
+    margin-left: 10px;
+    position: absolute;
+    top: 210px;
+    font-style: initial;
+}
+
+.description {
+    font-size: 18px;
+    margin-left: 10px;
+    position: absolute;
+    top: 243px;
+}
+
+.city {
+    color: grey;
+    font-size: 14px;
+    margin-left: 10px;
+    position: absolute;
+    top: 315px;
+}
+
+.date {
+    color: grey;
+    font-size: 14px;
+    margin-right: 10px;
+}
+
+.image2 {
+    width: 20px;
+    height: 15px;
+}
+
+.views {
+    color: grey;
+    font-size: 14px;
+    margin-left: 5px;
+}
+
+.additional1 {
+    background-color: green;
+    color: #fff;
+    border-radius: 5px;
+    width: 50px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 8px;
+}
+
+.additional2 {
+    background-color: grey;
+    color: #fff;
+    border-radius: 5px;
+    width: 73px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image3 {
+    width: 18px;
+    height: 17px;
+    margin-left: 150px;
+}
+
+.image4 {
+    width: 18px;
+    height: 17px;
+    margin-left: 140px;
+}
+
+.image5 {
+    width: 18px;
+    height: 17px;
+}
